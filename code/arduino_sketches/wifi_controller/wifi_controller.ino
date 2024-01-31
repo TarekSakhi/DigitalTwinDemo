@@ -5,8 +5,8 @@
 #define CAR A1
 
 // Wifi variables
-char ssid[] = "CuriousInc-Corp"; 
-char pass[] = "PMEF4pW6x39G"; 
+char ssid[] = ""; 
+char pass[] = ""; 
 
 WiFiClient wifiClient;
 
